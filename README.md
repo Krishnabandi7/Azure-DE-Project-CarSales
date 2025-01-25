@@ -10,3 +10,6 @@ This process leverages SQL databases, GitHub, and Azure to handle data storage a
 
 
 ![Screenshot 2025-01-24 230754](https://github.com/user-attachments/assets/1d320f43-9a36-41fa-bf86-a9832ea98e5b)
+
+
+![image](https://github.com/user-attachments/assets/155cd773-9044-4856-a0e9-d254dd01441f)
